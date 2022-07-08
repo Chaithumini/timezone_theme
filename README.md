@@ -24,9 +24,9 @@ Need to install this theme before installing the module
 INSTALLATION
 ------------
 
- *  Download and install the custom theme(Timezone theme) by - git clone https://github.com/Chaithumini/timezone_theme.git and place under ../themes/custom/
+ *  Download and install the custom theme(timezone_theme) by - git clone https://github.com/Chaithumini/timezone_theme.git and place under ../themes/custom/
  *  Go to Admin > Structure >  Appearence > Install Timezone Theme and set as default theme.
- *  Download the module git clone https://github.com/Chaithumini/custom_timezone.git place ihe module within ../modules/custom/
+ *  Download the module custom_timezone:  git clone https://github.com/Chaithumini/custom_timezone.git place ihe module within ../modules/custom/
  *  Go to Admin > Structure > Extend > Timezone install
  *  Clear all caches
  
