@@ -1,0 +1,15 @@
+<?php
+use Drupal\block\Entity\Block;
+
+/**
+ * Implements hook_theme().
+ */
+function timezone_theme_theme($existing, $type, $theme, $path) {
+  return [
+    'timezone_template' => [
+      'variables' => ['timezone' => NULL, 'current_time' => NULL],
+    ],
+  ];
+}
+
+?>
